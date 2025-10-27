@@ -104,7 +104,7 @@ Or use VS Code / Google Colab for faster execution.
 
 ## 🧑‍💻 Author
 **Adnan Altimeemy**  
-Data Scientist and Eductor  - 
+Data Scientist  
 Educational Data Science & Machine Learning Enthusiast
 
 ---
